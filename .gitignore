@@ -142,3 +142,7 @@ papers_v4.json
 script_v4_step1.py
 script_v4_step2.py
 script_v3.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
